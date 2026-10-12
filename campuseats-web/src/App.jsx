@@ -63,7 +63,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <small>API: {API || '(not set)'}</small>
+        <small>API: {API || '(not set)'} · Deployed automatically with CI/CD</small>
       </footer>
     </div>
   )
